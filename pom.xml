@@ -54,7 +54,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins.workflow</groupId>
       <artifactId>workflow-basic-steps</artifactId>
-      <version>2.24</version>
+      <version>1079.vce64b_a_929c5a_</version>
       <scope>test</scope>
     </dependency>
     <dependency>
